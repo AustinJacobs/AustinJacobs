@@ -25,7 +25,7 @@ I am a Frontend Developer from the United States.
 
 - :zap: When I am not doing homework, I am playing with my dog Kai, hanging out with my wife or working on Udemy tutorials.
 
-- :mailbox: Reach out to me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/austtjac-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: Reach out to me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-austtjac-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aust-t-jac/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
