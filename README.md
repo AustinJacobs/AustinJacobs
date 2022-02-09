@@ -3,11 +3,11 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/aust-t-jac/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=AustinJacobs&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=AustinJacobs&style=flat-square&color=blue" alt=""/>
 <h1>
   Welcome to my GitHub profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -36,7 +36,6 @@ I am a Frontend Developer from the United States.
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
- height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 ---
