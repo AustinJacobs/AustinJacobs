@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-<div id="badges">
+  <div id="badges">
   <a href="https://www.linkedin.com/in/aust-t-jac/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+</div>
+
 <img src="https://komarev.com/ghpvc/?username=AustinJacobs&style=flat-square&color=blue" alt=""/>
 <h1>
   Welcome to my GitHub profile
@@ -17,14 +18,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Frontend Developer from the United States.
+- :telescope: I’m working towards a Web Development & Design degree from Brigham Young Univserity of Idaho. I am currently learning React.js and it is quickly becoming one of my favorite technolgies. 
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: When I am not doing homework, I am playing with my dog Kai, hanging out with my wife or working on Udemy tutorials.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Reach out to me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-aust-t-jac-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
