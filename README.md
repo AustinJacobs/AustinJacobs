@@ -21,9 +21,7 @@
 I am a Frontend Developer from the United States.
 - :telescope: I’m working towards a Web Development & Design degree from Brigham Young Univserity of Idaho. I am currently learning React.js and it is quickly becoming one of my favorite technolgies. 
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: When I am not working, I am playing with my dog Kai, hanging out with my wife or working on Udemy tutorials.
+- :zap: When I am not working, I am playing with my dog Kai and spending time with my wife.
 
 - :mailbox: Reach out to me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-austtjac-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aust-t-jac/)
 ---
