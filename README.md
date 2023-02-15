@@ -12,14 +12,11 @@
   Welcome to my GitHub profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ### :man_technologist: About Me :
 I am a Frontend Developer from the United States.
-- :telescope: I’m working towards a Web Development & Design degree from Brigham Young Univserity of Idaho. I am currently learning React.js and it is quickly becoming one of my favorite technolgies. 
+- :telescope: I’m working towards a Web Development & Design degree from Brigham Young Univserity of Idaho. I am currently learning React.js and it is quickly becoming one of my favorite technologies. 
 
 - :zap: When I am not working, I am playing with my dog Kai and spending time with my wife.
 
